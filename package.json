@@ -1,0 +1,31 @@
+{
+  "name": "clipping",
+  "version": "1.0.0",
+  "description": " a lightweight screen recorder,simplifying gameplay/clip capture. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de-Padua/clipping.git"
+  },
+  "keywords": [
+    "clip",
+    "js",
+    "node",
+    "electron",
+    "native",
+    "app"
+  ],
+  "author": "de-Padua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/de-Padua/clipping/issues"
+  },
+  "homepage": "https://github.com/de-Padua/clipping#readme",
+  "devDependencies": {
+    "electron": "^28.2.1"
+  }
+}
